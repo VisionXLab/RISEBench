@@ -2,7 +2,7 @@
 
 # Reasoning-Informed Visual Editing
 
-[**RISEBench**](RISEBench/README.md) · [**RISEBench++**](RISEBench++/README.md) · [**RISE-Video**](https://github.com/VisionXLab/Rise-Video)
+[**RISEBench**](RISEBench/README.md) · [**RISEBench++**](RISEBench++/README.md) · [**RISE-Video**](https://github.com/VisionXLab/Rise-Video) · [**Leaderboard**](https://huggingface.co/spaces/VisionXLab/RISEBench_Leaderboard)
 
 <img src="assets/icon.png" alt="RISEBench Logo" width="500">
 
@@ -42,7 +42,7 @@ RISEBench benchmarks reasoning-informed visual editing across **temporal, causal
 
 **Reasoning-Informed Visual Editing**
 
-[Paper](https://arxiv.org/abs/2504.02826) · [Dataset](https://huggingface.co/datasets/VisionXLab/RISEBench-plusplus) · [Model Outputs](https://huggingface.co/datasets/VisionXLab/RISEBench-plusplus_Outputs)
+[Paper](https://arxiv.org/abs/2610.12343) · [Dataset](https://huggingface.co/datasets/VisionXLab/RISEBench-plusplus) · [Model Outputs](https://huggingface.co/datasets/VisionXLab/RISEBench-plusplus_Outputs)
 
 <div align="center">
   <img src="RISEBench++/images/main.png" width="100%" alt="RISEBench++ overview">
@@ -153,14 +153,11 @@ If you find the RISE series useful, please cite the corresponding work.
 ### RISEBench++
 
 ```bibtex
-@misc{yang2026reasoninginformedvisualediting,
+@article{yang2026reasoning,
   title={Reasoning-Informed Visual Editing},
-  author={Xue Yang and Peiyuan Zhang and Yilun Zhu and Qihao Yang and Mingxin Liu and Xiangyu Zhao and Ziqian Fan and Zhaokai Wang and Yan Li and Yifan Yang and Xu Yang and Xiaosong Jia and Yue Zhou and Zhihang Zhong and Junchi Yan},
-  year={2026},
-  eprint={2610.12343},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2610.12343}
+  author={Yang, Xue and Zhang, Peiyuan and Zhu, Yilun and Yang, Qihao and Liu, Mingxin and Zhao, Xiangyu and Fan, Ziqian and Wang, Zhaokai and Li, Yan and Yang, Yifan and others},
+  journal={arXiv preprint arXiv:2610.12343},
+  year={2026}
 }
 ```
 
