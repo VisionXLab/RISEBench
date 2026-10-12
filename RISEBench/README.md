@@ -33,8 +33,8 @@ Xiaorong Zhu\*,
   <a href='https://huggingface.co/spaces/opencompass/RISEBench_Gallery'>
     <img src='https://img.shields.io/badge/Gallery-ModelResults-blue?style=flat&logo=huggingface' alt='data img/data'>
   </a>
-  <a href='#leaderboard'>
-    <img src='https://img.shields.io/badge/Rank-Leaderboard-blue?style=flat&logo=flipboard' alt='data img/data'>
+  <a href='https://huggingface.co/spaces/VisionXLab/RISEBench_Leaderboard'>
+    <img src='https://img.shields.io/badge/Rank-Leaderboard-blue?style=flat&logo=flipboard' alt='Leaderboard'>
   </a>
 
 If you find our work helpful, please consider giving us a ⭐ or citation :blush:
