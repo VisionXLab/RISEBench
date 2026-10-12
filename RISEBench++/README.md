@@ -17,7 +17,7 @@ Shanghai Jiao Tong University · Southeast University · South China University 
   <a href='https://huggingface.co/datasets/VisionXLab/RISEBench-plusplus'><img src='https://img.shields.io/badge/Huggingface-Data-blue?style=flat&logo=huggingface' alt='Hugging Face Data'></a>
   <a href='https://huggingface.co/datasets/VisionXLab/RISEBench-plusplus_Outputs'><img src='https://img.shields.io/badge/Huggingface-Outputs-blue?style=flat&logo=huggingface' alt='Hugging Face Model Outputs'></a>
   <a href='https://huggingface.co/papers/2610.12343'><img src='https://img.shields.io/badge/Huggingface-Paper-blue?style=flat&logo=huggingface' alt='Hugging Face Paper'></a> 
-  <a href='#leaderboard'><img src='https://img.shields.io/badge/Rank-Leaderboard-blue?style=flat&logo=flipboard' alt='Leaderboard'></a>
+  <a href='https://huggingface.co/spaces/VisionXLab/RISEBench_Leaderboard'><img src='https://img.shields.io/badge/Rank-Leaderboard-blue?style=flat&logo=flipboard' alt='Leaderboard'></a>
 </p>
 
 If you find our work helpful, please consider giving us a ⭐ or citation :blush:
@@ -308,13 +308,10 @@ We exhibit representative model outputs below, including examples illustrating r
 If you find RISEBench++ or RISE-Agent useful, please cite our [paper](https://arxiv.org/abs/2610.12343):
 
 ```bibtex
-@misc{yang2026reasoninginformedvisualediting,
+@article{yang2026reasoning,
   title={Reasoning-Informed Visual Editing},
-  author={Xue Yang and Peiyuan Zhang and Yilun Zhu and Qihao Yang and Mingxin Liu and Xiangyu Zhao and Ziqian Fan and Zhaokai Wang and Yan Li and Yifan Yang and Xu Yang and Xiaosong Jia and Yue Zhou and Zhihang Zhong and Junchi Yan},
-  year={2026},
-  eprint={2610.12343},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2610.12343}
+  author={Yang, Xue and Zhang, Peiyuan and Zhu, Yilun and Yang, Qihao and Liu, Mingxin and Zhao, Xiangyu and Fan, Ziqian and Wang, Zhaokai and Li, Yan and Yang, Yifan and others},
+  journal={arXiv preprint arXiv:2610.12343},
+  year={2026}
 }
 ```
