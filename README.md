@@ -166,8 +166,8 @@ If you find the RISE series useful, please cite the corresponding work.
 ```bibtex
 @article{liu2026rise,
   title={RISE-Video: Can Video Generators Decode Implicit World Rules?},
-  author={Liu, Mingxin and Ma, Shuran and Meng, Shibei and Zhao, Xiangyu and Zhang, Zicheng and Zhang, Shaofeng and Zhong, Zhihang and Chen, Peixian and Cao, Haoyu and Sun, Xing and others},
-  journal={arXiv preprint arXiv:2602.05986},
+    author={Liu, Mingxin and Ma, Shuran and Meng, Shibei and Zhao, Xiangyu and Zhang, Zicheng and Zhang, Shaofeng and Zhong, Zhihang and Chen, Peixian and Cao, Haoyu and Sun, Xing and others},
+  journal={Advances in neural information processing systems},
   year={2026}
 }
 ```
